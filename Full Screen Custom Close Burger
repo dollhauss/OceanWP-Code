@@ -1,0 +1,7 @@
+/*--FULL SCREEN BURGER CLOSE ICON--*/
+#site-header.full_screen-header .menu-bar.exit {
+    color: #555;
+}
+#site-header.full_screen-header .menu-bar.exit .fa:before {
+    content: "\f00d";
+}
