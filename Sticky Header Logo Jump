@@ -1,3 +1,4 @@
+/*--STICKY HEADER LOGO JUMP--*/
 #site-logo #site-logo-inner a img {
     max-height:53px; -webkit-transition:max-height .3s ease-out; transition:max-height .3s ease-out;
 }
