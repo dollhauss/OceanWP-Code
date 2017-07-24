@@ -1,0 +1,7 @@
+/*--FULL SCREEN HIDE SCROLLBAR--*/
+html {
+    overflow-y: auto !important;
+}
+#site-header.full_screen-header #full-screen-menu {
+    overflow-y: hidden;
+}
