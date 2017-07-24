@@ -1,0 +1,5 @@
+/*--FULL SCREEN TRANSPARENT HEADER--*/
+#site-header {
+    position: absolute;
+    top: 0;
+}
